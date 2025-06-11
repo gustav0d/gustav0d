@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently open to work
 - 🌱 What am I doing now? You can see what I'm learning on my [/now page](https://gustav0d.github.io/now)
 - 👯 I’m looking to collaborate complex full stack problems or helping people who want to be software engineers
-- 💬 Ask me about Node.js, React, TypeScript, GraphQL and anything else web related
-- 📫 How to reach me: You can ping me on Twitter, Bluesky, LinkedIn, all my links are on my [/contact page](https://gustav0d.github.io/contact)
+- 💬 Ask me about anything! From Pre-Socratic philosophy to distributed systems
+- 📫 How to reach me: You can ping me on [Bluesky](https://bsky.app/profile/gustav0d.bsky.social) (preferable), [Twitter](https://x.com/gusdantas) or [LinkedIn](https://www.linkedin.com/in/dantas15/), all my links are on my [/contact page](https://gustav0d.github.io/contact)
 - 😄 Pronouns: He/Him
