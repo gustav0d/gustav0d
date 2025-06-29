@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently open to work
+- 🔭 I’m a software engineer
 - 🌱 What am I doing now? You can see what I'm learning on my [/now page](https://gustav0d.github.io/now)
 - 👯 I’m looking to collaborate complex full stack problems or helping people who want to be software engineers
 - 💬 Ask me about anything! From Pre-Socratic philosophy to distributed systems
