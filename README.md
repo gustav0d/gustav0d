@@ -1,9 +1,5 @@
 ## Hello, I am Gustavo, a software engineer from Brazil 🇧🇷
 
-[![Offline Chromium game dino gif][dino-url]][dino-url]
-
-> _dino gameplay to help retain short attention span_
-
 I am really interested in web development in general. Currently, I'm focused on learning and deep diving into:
 - Node.js
 - Distributed systems
@@ -17,9 +13,7 @@ Some of my hobbies:
 
 I'm an adept of [learning in public][learn-in-public-url] and I do most of it on [X/Twitter][twitter-url]. I also write more about what I'm currently studying, learning, reading, coding and writing on my [blog][blog] (it's [open source][blog-github]), especially on my [/now][blog-now] page.
 
-> If you want talk about anything (tech related or not) or you're just interested about learning in public as well, make sure to [get in touch][all-links] with me!
-
-### Some techs I already worked with
+### Some techs I worked with
 
 [![JavaScript][javascript]][javascript-url]
 [![TypeScript][typescript]][typescript-url]
@@ -36,6 +30,10 @@ I'm an adept of [learning in public][learn-in-public-url] and I do most of it on
 [![GitHub][github]][github-url]
 [![Vim][vim]][vim-url]
 [![VSCode][vscode]][vscode-url]
+
+[![Offline Chromium game dino gif][dino-url]][dino-url]
+
+### If you want talk about anything (tech related or not) or you're just interested about learning in public as well, make sure to [get in touch][all-links] with me!
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
