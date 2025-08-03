@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - 🌱 What am I doing now? You can see what I'm learning on my [/now page](https://gustav0d.github.io/now)
 - 👯 I’m looking to collaborate complex full stack problems or helping people who want to be software engineers
 - 💬 Ask me about anything! From Pre-Socratic philosophy to distributed systems
-- 📫 How to reach me: You can ping me on [Bluesky](https://bsky.app/profile/gustav0d.bsky.social) (preferable), [Twitter](https://x.com/gusdantas) or [LinkedIn](https://www.linkedin.com/in/dantas15/), all my links are on my [/contact page](https://gustav0d.github.io/contact)
+- 📫 How to reach me: You can ping me on [Bluesky](https://bsky.app/profile/gustav0d.bsky.social) (preferable), [Twitter](https://x.com/gusdantas) or [LinkedIn](https://www.linkedin.com/in/gustavo-dantas-galote/), all my links are on my [/contact page](https://gustav0d.github.io/contact)
 - 😄 Pronouns: He/Him
