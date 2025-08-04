@@ -33,7 +33,7 @@ I'm an adept of [learning in public][learn-in-public-url] and I do most of it on
 
 [![Offline Chromium game dino gif][dino-url]][dino-url]
 
-### If you want talk about anything (tech related or not) or you're just interested about learning in public as well, make sure to [get in touch][all-links] with me!
+### If you want talk about anything (tech related or not) or you're just interested about learning in public as well, make sure to [get in touch][all-links]!
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
