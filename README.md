@@ -13,6 +13,8 @@ Some of my hobbies:
 
 I'm an adept of [learning in public][learn-in-public-url] and I do most of it on [X/Twitter][twitter-url]. I also write more about what I'm currently studying, learning, reading, coding and writing on my [blog][blog] (it's [open source][blog-github]), especially on my [/now][blog-now] page.
 
+[![Offline Chromium game dino gif][dino-url]][dino-url]
+
 ### Some techs I worked with
 
 [![JavaScript][javascript]][javascript-url]
@@ -30,8 +32,6 @@ I'm an adept of [learning in public][learn-in-public-url] and I do most of it on
 [![GitHub][github]][github-url]
 [![Vim][vim]][vim-url]
 [![VSCode][vscode]][vscode-url]
-
-[![Offline Chromium game dino gif][dino-url]][dino-url]
 
 ### If you want talk about anything (tech related or not) or you're just interested about learning in public as well, make sure to [get in touch][all-links]!
 
