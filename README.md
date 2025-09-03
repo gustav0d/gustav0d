@@ -49,7 +49,7 @@ want to change this
 [linkedin-url]: https://www.linkedin.com/in/gustavo-dantas-galote/
 [blog]: https://gusdantas.dev/
 [blog-github]: https://github.com/gustav0d/gusdantas.dev
-[blog-now]: https://github.com/gustav0d/gusdantas.dev
+[blog-now]: https://gusdantas.dev/now
 [all-links]: https://gusdantas.dev/contact
 
 <!-- Badges -->
