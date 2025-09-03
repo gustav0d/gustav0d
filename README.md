@@ -47,10 +47,10 @@ want to change this
 [twitter-url]: https://x.com/gusdantas
 [learn-in-public-url]: https://www.swyx.io/learn-in-public
 [linkedin-url]: https://www.linkedin.com/in/gustavo-dantas-galote/
-[blog]: https://gustav0d.github.io/
-[blog-github]: https://github.com/gustav0d/gustav0d.github.io
-[blog-now]: https://github.com/gustav0d/gustav0d.github.io
-[all-links]: https://gustav0d.github.io/contact
+[blog]: https://gusdantas.dev/
+[blog-github]: https://github.com/gustav0d/gusdantas.dev
+[blog-now]: https://github.com/gustav0d/gusdantas.dev
+[all-links]: https://gusdantas.dev/contact
 
 <!-- Badges -->
 
