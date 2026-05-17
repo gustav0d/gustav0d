@@ -1,4 +1,4 @@
-## Gustavo Dantas · Software Engineer · Brazil 🇧🇷
+## Gustavo Dantas · Software Engineer
 
 - Node.js
 - Distributed systems
@@ -6,7 +6,7 @@
 - AI-powered products
 
 Besides coding:
-- Brazilian literature
+- Literature
 - Philosophy
 - Running
 - Gaming
