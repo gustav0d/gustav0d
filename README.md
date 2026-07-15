@@ -1,9 +1,11 @@
 ## Gustavo Dantas · Software Engineer
 
-- Node.js
+Interests
+- Software Architecture
 - Distributed systems
-- IaC
+- Software Reliability Engineering
 - AI-powered products
+- Everything JavaScript/TypeScript ecosystem
 
 Besides coding:
 - Literature
